@@ -1,6 +1,6 @@
 # Biodiversity Intelligence Platform
 
-> An AI-native
+> An
 
 The Biodiversity Intelligence Platform (BIP) integrates live environmental datasets from leading scientific organizations into a modern analytics platform. Using Python, dbt, Airflow, PostgreSQL, LookML, and AI, the platform transforms raw ecological observations into trusted, decision-ready insights.
 
