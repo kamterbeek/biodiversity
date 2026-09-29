@@ -8,7 +8,7 @@ This project is designed to demonstrate modern analytics engineering, semantic m
 
 ---
 
-## Why This Project?
+## W This Project?
 
 Global biodiversity data is scattered across hundreds of organizations.
 
