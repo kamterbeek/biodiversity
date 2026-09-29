@@ -38,24 +38,3 @@ This platform combines biodiversity, climate, wildfire, habitat, and conservatio
 
 ## Architecture
 
-Coming soon.
-
-(A full architecture diagram will be added as the project evolves.)
-
-```
-
-```
-Public APIs
-      │
-Python Ingestion
-      │
- PostgreSQL
-      │
-     dbt
-      │
- Semantic Layer
-      │
-   Dashboards
-      │
-      AI
-```
