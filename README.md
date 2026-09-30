@@ -10,7 +10,7 @@ This project is designed to demonstrate modern analytics engineering, semantic m
 
 Global biodiversity data is scattered across hundreds of organizations.
 
-Researchers often spend more time collecting data than analyzing it.
+Researchers often spend more time collecting data than analyzing the
 
 This platform combines biodiversity, climate, wildfire, habitat, and conservation datasets into a single analytics platform that supports:
 
