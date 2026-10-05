@@ -1,1 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# Virtual Environments
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# Airflow
+airflow.db
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Terraform
+.terraform/
+terraform.tfstate*
