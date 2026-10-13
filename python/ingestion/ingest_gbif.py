@@ -3,7 +3,6 @@ Ingest biodiversity occurrence records from GBIF into PostgreSQL.
 Usage:
     python -m pipelines.ingestion.ingest_gbif
 """
-
 import json
 import logging
 import os
