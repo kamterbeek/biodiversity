@@ -1,6 +1,6 @@
 # Biodiversity Intelligence Platform
 
-The Biodiversity Intelligence Platform This project is designed to demonstrate modern analytics engineering, semantic modeling, and data platform architecture while supporting conservation research and biodiversity education.
+This project is designed to demonstrate modern analytics engineering, semantic modeling, and data platform architecture while supporting conservation research and biodiversity education.
 
 ---
 
